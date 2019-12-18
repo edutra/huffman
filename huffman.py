@@ -1,8 +1,11 @@
 import sys
 
 
+quantities = {}
+
+
 def compress(file_name):
-	print("c")
+	
 	return 1
 def decompress(compressed_file_name, binaries):
 	print("d")
